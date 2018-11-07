@@ -1,0 +1,12 @@
+name: nhanesdash
+title: nhanesdash
+username:
+account: gallery
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 426176
+bundleId: 1573929
+url: https://gallery.shinyapps.io/nhanesdash/
+when: 1536304355.62433
+asMultiple: FALSE
+asStatic: FALSE
